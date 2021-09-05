@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <h2>Hello there &#128075;, my name is Nathalie Reynosa!</h2>
         <p>Nice to meet you...</p>
-        <p>I'm an aspiring Web Developer/Designer</p>
+        <p>I'm an aspiring Web Developer/Designer.</p>
         <p>Let's connect:</p> 
         <Link href="mailto:nathy.reynosa@protonmail.com">
           <a>nathy.reynosa@protonmail.com</a>
